@@ -29,4 +29,4 @@ To play Rock, Paper, Scissors, run `RockPaperScissor.py`.
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/python-beginner-games.git
+   git clone 
