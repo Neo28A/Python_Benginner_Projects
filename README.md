@@ -13,15 +13,16 @@ To play Hangman, run `hangman.py`.
 
 ### 2. Guess the Number
 
-In the Guess the Number game, the computer selects a random number, and the player tries to guess it. The player receives feedback on whether their guess is too high or too low. The game continues until the correct number is guessed.
+In the Guess the Number game, the computer or user selects a random number, and the player or computer tries to guess it. The player receives feedback on whether their guess is too high or too low. The game continues until the correct number is guessed.
 
-To play Guess the Number, run `guess_the_number.py`.
+To play Guess the Number with computer, run `guesscompnumber.py`.
+To play Guess the Number with user, run `guessuserumber.py`.
 
 ### 3. Rock, Paper, Scissors
 
 Rock, Paper, Scissors is a classic hand game where each player simultaneously forms one of three shapes with an outstretched hand. The possible outcomes are Rock beats Scissors, Scissors beats Paper, and Paper beats Rock.
 
-To play Rock, Paper, Scissors, run `rock_paper_scissors.py`.
+To play Rock, Paper, Scissors, run `RockPaperScissor.py`.
 
 ## Getting Started
 
